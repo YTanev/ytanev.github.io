@@ -1,0 +1,175 @@
+<?xml version="1.0"?>
+<rss version="2.0">
+  <channel>
+    <title>Site Title</title>
+    <description>Site Title</description>
+    <link/>
+    <pubDate>2016-02-24</pubDate>
+    <item>
+      <title>Aboot</title>
+      <link>/aboot</link>
+      <description>&lt;h1 id="toc_0"&gt;about page.&lt;/h1&gt;
+
+&lt;p&gt;content should be here as well as the pictures&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>Archive</title>
+      <link>/archive</link>
+      <description>
+</description>
+    </item>
+    <item>
+      <title>Biography</title>
+      <link>/bio</link>
+      <description>&lt;h1 id="toc_0"&gt;Yavor&amp;#39;s bio&lt;/h1&gt;
+
+&lt;h2 id="toc_1"&gt;Born&lt;/h2&gt;
+
+&lt;p&gt;here&lt;/p&gt;
+
+&lt;h2 id="toc_2"&gt;lived&lt;/h2&gt;
+
+&lt;p&gt;there&lt;/p&gt;
+
+&lt;h2 id="toc_3"&gt;worked&lt;/h2&gt;
+
+&lt;h3 id="toc_4"&gt;almost&lt;/h3&gt;
+
+&lt;h3 id="toc_5"&gt;everywhere&lt;/h3&gt;
+</description>
+    </item>
+    <item>
+      <title>Categories</title>
+      <link>/categories</link>
+      <description>
+&lt;ul class="tag_box inline"&gt;
+&lt;/ul&gt;
+
+</description>
+    </item>
+    <item>
+      <title>Commissions</title>
+      <link>/commissions</link>
+      <description>#wonderful artworks are stacked here
+</description>
+    </item>
+    <item>
+      <title>Contacts</title>
+      <link>/contacts</link>
+      <description>&lt;h1 id="toc_0"&gt;Contacts&lt;/h1&gt;
+
+&lt;h3 id="toc_1"&gt;phone&lt;/h3&gt;
+
+&lt;p&gt;124353452&lt;/p&gt;
+
+&lt;h3 id="toc_2"&gt;e-mail&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href="mailto:2134234@234.234"&gt;2134234@234.234&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>Index</title>
+      <link>/</link>
+      <description>&lt;h1 id="toc_0"&gt;title 1&lt;/h1&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;one gt&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;two gt&lt;/p&gt;
+
+&lt;h2 id="toc_1"&gt;title 2&lt;/h2&gt;
+
+&lt;h3 id="toc_2"&gt;title 3 and two lt&lt;/h3&gt;
+
+&lt;p&gt;-bullet&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;-bullet&lt;/p&gt;
+
+&lt;p&gt;--two dashes&lt;/p&gt;
+
+&lt;p&gt;/slash&lt;/p&gt;
+
+&lt;p&gt;//two slashes&lt;/p&gt;
+
+&lt;p&gt;\backsl&lt;/p&gt;
+
+&lt;p&gt;\two backsl&lt;/p&gt;
+
+&lt;p&gt;.dot &lt;/p&gt;
+
+&lt;p&gt;{/about}&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>Pages</title>
+      <link>/pages</link>
+      <description>
+&lt;ul&gt;
+  
+    &lt;li&gt;&lt;a href="/aboot"&gt;Aboot&lt;/a&gt;&lt;/li&gt;
+  
+  
+    &lt;li&gt;&lt;a href="/archive"&gt;Archive&lt;/a&gt;&lt;/li&gt;
+  
+  
+    &lt;li&gt;&lt;a href="/bio"&gt;Biography&lt;/a&gt;&lt;/li&gt;
+  
+  
+    &lt;li&gt;&lt;a href="/categories"&gt;Categories&lt;/a&gt;&lt;/li&gt;
+  
+  
+    &lt;li&gt;&lt;a href="/commissions"&gt;Commissions&lt;/a&gt;&lt;/li&gt;
+  
+  
+    &lt;li&gt;&lt;a href="/contacts"&gt;Contacts&lt;/a&gt;&lt;/li&gt;
+  
+  
+    &lt;li&gt;&lt;a href="/"&gt;Index&lt;/a&gt;&lt;/li&gt;
+  
+    &lt;li class="active"&gt;&lt;a href="/pages" class="active"&gt;Pages&lt;/a&gt;&lt;/li&gt;
+  
+  
+  
+    &lt;li&gt;&lt;a href="/projects"&gt;Projects&lt;/a&gt;&lt;/li&gt;
+  
+  
+    &lt;li&gt;&lt;a href="/tags"&gt;Tags&lt;/a&gt;&lt;/li&gt;
+  
+  
+    &lt;li&gt;&lt;a href="/test"&gt;Test&lt;/a&gt;&lt;/li&gt;
+  
+&lt;/ul&gt;
+</description>
+    </item>
+    <item>
+      <title>Projects</title>
+      <link>/projects</link>
+      <pubDate>2016-02-14</pubDate>
+      <description>PROJECTS INDEX 
+&lt;p&gt;
+from the _root
+  &lt;ul&gt;
+  &lt;/ul&gt;
+</description>
+    </item>
+    <item>
+      <title>Tags</title>
+      <link>/tags</link>
+      <description>
+&lt;ul class="tag_box inline"&gt;
+&lt;/ul&gt;
+
+ 
+</description>
+    </item>
+    <item>
+      <title>Test</title>
+      <link>/test</link>
+      <description/>
+    </item>
+  </channel>
+</rss>

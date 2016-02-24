@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<rss version="2.0">
+  <channel>
+    <title>Site Title</title>
+    <description>Site Title</description>
+    <link/>
+    <pubDate>2016-02-24</pubDate>
+    <item>
+      <title>Sculptures</title>
+      <link>/sculptures</link>
+      <description>&lt;h1 id="toc_0"&gt;A big list of sculptures that could be seen in separate pages&lt;/h1&gt;
+</description>
+    </item>
+  </channel>
+</rss>
