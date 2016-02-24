@@ -1,0 +1,15 @@
+---
+layout: "default"
+title: 'Projects'
+date: '2016-02-14'
+description:
+tags: []
+---
+PROJECTS INDEX 
+<p>
+from the _root
+  <ul>
+  {{# projects.all }}
+    <li><a href="{{url}}">{{title}}</a></li>
+  {{/ projects.all }}
+  </ul>

@@ -1,0 +1,20 @@
+title : Site Title
+tagline: Site Tagline
+author :
+  name : First-name Last-name
+  email : blah@email.test
+  github : username
+  twitter : username
+  feedburner : feedname
+
+navigation :
+  - sculptures
+  - Projects
+  - commissions
+  - bio
+  - contacts
+  - archive
+  - tags
+  - categories
+  - pages
+  - about
